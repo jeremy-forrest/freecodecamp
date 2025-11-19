@@ -1,26 +1,61 @@
+
 # Recipe Page Lab
 
-A simple project for FreeCodeCamp to practice building a recipe page using HTML.
+A small HTML exercise from the FreeCodeCamp curriculum that demonstrates a basic recipe page layout.
 
 ## Description
-This project demonstrates the structure of a basic recipe page. It is intended as a learning exercise for HTML and web development fundamentals.
+
+This repository contains a single example file, `recipe_page_lab.html`, that shows a simple recipe page structure. It's intended for learning HTML structure, semantic tags, and small-scale styling.
+
+## Files
+
+- `recipe_page_lab.html`: The main HTML file to open in your browser.
 
 ## Installation
-No installation required. Simply open `recipe_page_lab.html` in your web browser.
 
-## Usage
-1. Clone or download this repository.
-2. Open `recipe_page_lab.html` in your browser to view the recipe page.
+No build or installation is required. Clone or download the repository and open the HTML file in your browser.
 
-## Features
-- Clean and simple HTML structure
-- Easy to customize for your own recipes
+Clone the repo:
+
+```
+git clone <your-repo-url>
+cd "recipe page lab"
+```
+
+## Preview / Usage
+
+- Open the file in your default browser:
+
+```
+open recipe_page_lab.html
+```
+
+- Or use VS Code Live Server (recommended for live reload while editing):
+
+1. Install the Live Server extension in VS Code.
+2. Open the project folder in VS Code.
+3. Right-click `recipe_page_lab.html` and choose **Open with Live Server**.
+
+## Development
+
+- Edit `recipe_page_lab.html` to make changes. The file is standalone—no additional tooling is required.
+- When you're ready to save changes and commit them:
+
+```
+git add recipe_page_lab.html README.md
+git commit -m "Update recipe page and README"
+git push
+```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Contributions are welcome. For small fixes or enhancements, open a pull request. For larger changes, please open an issue first describing your plan.
 
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+
+This project does not include a license file by default. If you want to make it open source, add a `LICENSE` file (for example, the MIT License).
 
 ## Credits
-Created as part of the FreeCodeCamp curriculum.
+
+Created as part of the FreeCodeCamp curriculum and adapted by the project author.
+
